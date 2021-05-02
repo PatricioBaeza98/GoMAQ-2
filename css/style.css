@@ -2365,3 +2365,9 @@ ul.bottom_menu li {
     background: #050000;
 }
 
+.menu-abajo li a:last-child{
+	margin-left: 15px;
+}
+.menu-abajo i{
+	font-size: 25px;
+}
