@@ -2366,6 +2366,7 @@ ul.bottom_menu li {
 .menu-abajo li a:last-child{
 	margin-left: 15px;
 }
+
 .menu-abajo i{
 	font-size: 25px;
 }
@@ -2377,4 +2378,7 @@ ul.bottom_menu li {
 }
 .icono{
 	font-size: 25px;
+}
+.menu-arriba li a:last-child{
+	margin-left: 15px;
 }
