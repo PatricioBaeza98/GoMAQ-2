@@ -2357,8 +2357,6 @@ ul.bottom_menu li {
     cursor: pointer;
     transition: ease all 0.5s;
 }
-
-
 .contact_form_inner button:hover,
 .contact_form_inner button:focus {
     color: #fff;
@@ -2371,24 +2369,12 @@ ul.bottom_menu li {
 .menu-abajo i{
 	font-size: 25px;
 }
-/*
-.for_slick_slider{
-	display: flex;
-}
-.for_slick_sldier .items{
-	widows: 350px;
-	height: 250px;
-	margin: 350px;
-}
-.for_slick_slider .items img{
-	widows: 350px;
-	height: 250px;
-}
-*/
-/* Slider */
 .slick-slide{
 	margin: 0px 10px;
 }
 .slick-slide img{
 	width: 100%;
+}
+.icono{
+	font-size: 25px;
 }
