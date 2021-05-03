@@ -2371,6 +2371,7 @@ ul.bottom_menu li {
 .menu-abajo i{
 	font-size: 25px;
 }
+/*
 .for_slick_slider{
 	display: flex;
 }
@@ -2382,4 +2383,12 @@ ul.bottom_menu li {
 .for_slick_slider .items img{
 	widows: 350px;
 	height: 250px;
+}
+*/
+/* Slider */
+.slick-slide{
+	margin: 0px 10px;
+}
+.slick-slide img{
+	width: 100%;
 }
